@@ -1,0 +1,14 @@
+[user]
+	name = Ben Siebert
+	email =
+[color]
+  ui = auto
+[alias]
+  st = status
+  ci = commit
+  co = checkout
+  rbm = rebase master
+  br = branch
+  lol = log --oneline
+[merge]
+  tool = vimdiff
